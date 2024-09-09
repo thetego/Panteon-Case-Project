@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 726f0e023b46b5242a0acba2fc24a65e, type: 3}
+  m_Name: SoldierProduct2
+  m_EditorClassIdentifier: 
+  ProductPrefab: {fileID: 3343845098567750082, guid: 4383dd1491488024b9420c195a1dbf02, type: 3}
+  Icon: {fileID: 21300000, guid: 0597b6026931fcb4db052065cbee1e99, type: 3}
+  Data: {fileID: 11400000, guid: 98bb651ebbb16df47a2cf12e8e3a5b8b, type: 2}
