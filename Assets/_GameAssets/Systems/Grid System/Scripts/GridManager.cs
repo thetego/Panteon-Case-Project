@@ -135,11 +135,5 @@ public class GridManager : Singleton<GridManager>
         // If no walkable node is found (which shouldn't happen unless the grid is full of obstacles)
         return null;
     }
-    void OnDrawGizmos()
-    {
-        foreach (Node item in Nodes)
-        {
-            Gizmos.DrawCube(item.WorldPos,Vector2.one*_nodeSize);
-        }
-    }
+
 }
